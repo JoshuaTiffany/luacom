@@ -1,0 +1,7 @@
+{
+  "version": "1.2.3",
+  "type": "LuaModule",
+  "author": "example@qsc.com",
+  "description": "Connect MS COM to LUA",
+  "requiredVersion" : "9.5"
+}
